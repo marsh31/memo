@@ -1,9 +1,9 @@
 # memo
--------
 
 memo tool.
 
 ## Install memo
+memo requres `cargo` to build.
 
 First, you'll want to check out this repository.
 ```sh
